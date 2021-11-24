@@ -16,3 +16,8 @@
   
 </details>
 
+<details>
+<summary>Kelas Penerapan di Industri</summary>
+
+
+</details>
