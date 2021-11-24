@@ -1,2 +1,6 @@
 # DQLab
-<h1 align="center">Project</h1>
+## Project
+
+<details><summary>Project Python</summary>
+
+</details>
